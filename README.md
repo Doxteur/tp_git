@@ -17,3 +17,7 @@ Ce projet contient des fichiers de déploiement et de configuration.
 ## Utilisation
 
 Ce projet est utilisé pour déployer des applications web sur différents environnements.
+
+## Bugs connus
+
+Consultez le fichier `bug.txt` pour la liste des bugs connus et leurs solutions.

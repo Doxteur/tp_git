@@ -1,0 +1,10 @@
+BUG REPORT - Version 1.0
+
+Description: Problème de déploiement sur environnement Linux
+Sévérité: Moyenne
+Date: $(date)
+
+Le script linux_user.sh ne fonctionne pas correctement sur certaines distributions Linux.
+Erreur: Permission denied lors de l'exécution du script.
+
+Solution proposée: Ajouter les permissions d'exécution appropriées.
